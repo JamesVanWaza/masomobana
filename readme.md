@@ -49,3 +49,9 @@
     a. [CSS Tricks Responsive Table](https://css-tricks.com/responsive-data-tables/
 
 15. Review app.yaml and find out why pages are not displaying
+
+16. Add Google Sign On
+    
+    a. Create Login Page Design on Adobe XD
+
+17. 
