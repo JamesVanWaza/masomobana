@@ -8,7 +8,9 @@
 4. <del>Bower</del>
     a. <del>Install Bower</del>
 
-5. In javascript5.php create example of credit card validation
+5. <del>Update Foundation 5 to Foundation 6</del>
+
+6. In javascript5.php create example of credit card validation
 
 	a. Detect if card is Mastercard, VISA
 
@@ -18,17 +20,17 @@
 
 	d. Use the example from [Credit Card JS](https://creditcardjs.com/)
 
-6. In Javascript3.php, setup the pixels to em conversion
+7. In Javascript3.php, setup the pixels to em conversion
 
-7. In Span101 find out how to add spanish characters in the text
+8. In Span101 find out how to add spanish characters in the text
 
-8. <del>Install Composer</del>
+9. <del>Install Composer</del>
 
     a. Install Algolia Doc Search
 
     b. Place search bar at the top of spanish101 page.
 
-9. Copy Function
+10. Copy Function
 
     a. Add Copy URL into the webpages. When I select a link, I should click the copy function just like when copying Github URL
 
@@ -36,11 +38,9 @@
 
     c. Use [Clipboard JS](https://zenorocha.github.io/clipboard.js/)
 
-10. Import Sticky Footer JS
+11. Import Sticky Footer JS
 
-11. Copy Foundation 5 Pixels to EMS Conversion Formula.
-
-12. <del>Update Foundation 5 to Foundation 6</del>
+12. Copy Foundation 5 Pixels to EMS Conversion Formula. 
 
 13. Add [BrowserSync](https://github.com/Browsersync/browser-sync) in Gruntfile.js
 
