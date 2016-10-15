@@ -1,16 +1,14 @@
 {
-  "name": "foundation-sites-template",
+  "name": "masomobana2017",
   "version": "1.0.0",
   "authors": [
-    "ZURB <foundation@zurb.com>"
+    "JamesVanWaza <jgacuca@dosbranding.com>"
   ],
-  "description": "Basic template for a new Foundation for Sites project.",
+  "description": "Continous testing of MasomoBana.",
   "main": "index.html",
   "license": "MIT",
-  "homepage": "http://foundation.zurb.com",
+  "homepage": "https://dosbranding.com",
   "dependencies": {
-    "foundation-sites": "~6.1.2",
-    "motion-ui": "~1.1.0",
     "foundation-sites": "~6.2.0",
     "motion-ui": "~1.2.2"
   },
