@@ -7,7 +7,6 @@
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JS</a></li>
       <li><a href="http://php.net/" target="_blank">PHP</a></li>
       <li><a href="http://dev.mysql.com/doc/refman/5.7/en/" target="_blank">MYSQL</a></li>
-      <li><a href="https://codio.com/" target="_blank">Codio</a></li>
       <li><a href="https://c9.io/" target="_blank">Cloud 9</a></li>
     </ul>
   </div>
@@ -88,8 +87,7 @@
   <div class="large-3 medium-6 small-6 columns">
     <p>Icons</p>
     <ul class="no-bullet">
-      <li><a href="http://fortawesome.github.io/Font-Awesome/" target="_blank">Fortawesome</a>
-      </li>
+      <li><a href="http://fontawesome.io/" target="_blank">Fontawesome</a></li>
     </ul>
   </div>
   <div class="large-3 medium-6 small-6 columns">
