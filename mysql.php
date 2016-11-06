@@ -58,6 +58,10 @@
 				<code class="language-sql">@DATABASE@-%F-%T</code> e.g <br>
 				<code class="language-sql">DatabaseName-2016-12-01 7:00</code>
 			</li>
+			<li>
+				Select users from table
+				<code class="language-sql">SELECT User FROM mysql.user;</code>
+			</li>
 		</ol>
 	</article>
 </div>
