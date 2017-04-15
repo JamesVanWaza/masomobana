@@ -62,6 +62,15 @@
 						<li><code class="language-git">open ~/.bash_profile</code></li>
 					</ul>
 				</li>
+				<li>
+					Updating NPM
+					<ul class="lower-latin">
+						<li>
+							Install and Update NPM
+							<code class="language-git">npm install npm@latest -g</code>
+						</li>
+					</ul>
+				</li>
 			</ol>
 		</div>
 	</div>
