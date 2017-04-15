@@ -36,7 +36,7 @@
 
     b. See Github Website
 
-    c. Use [Clipboard JS](https://zenorocha.github.io/clipboard.js/)
+    c. Use [Clipboard JS](https://clipboardjs.com/)
 
 11. Import Sticky Footer JS
 
