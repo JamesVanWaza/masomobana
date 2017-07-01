@@ -5,3 +5,4 @@ node_modules
 scss
 images/
 .bowerrc
+package-lock.json
