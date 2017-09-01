@@ -11,4 +11,9 @@
 		</ul>
 	</div>
 </div>
+Domains
+dosbranding.co.ke - Wordpress Projects - Hosting Google Cloud
+jamesvanwaza.com - Non Wordpress Projects - Hosting Google Cloud
+dosbranding.com - Wordpress USA Projects - Hosting - DigitalOcean
+loriantravel.com - Travel Website - Hosting Google Cloud
 <?php include_once 'footer.php';?>
