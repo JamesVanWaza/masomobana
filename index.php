@@ -94,7 +94,6 @@
     <p>Testing Responsive Designs</p>
     <ul class="no-bullet">
       <li><a href="http://responsinator.com/" target="_blank">Responsinator</a></li>
-      <li><a href="http://responsive.is/" target="_blank">Responsive</a></li>
       <li><a href="http://screenqueri.es/" target="_blank">Screen Queries</a></li>
       <li><a href="http://browserstack.com" target="_blank">Browser Stack</a></li>
     </ul>
@@ -102,9 +101,7 @@
   <div class="large-3 medium-6 small-6 columns">
     <p>Good Fluid Grid Frameworks</p>
     <ul class="no-bullet">
-      <li><a href="http://goldengridsystem.com/" target="_blank">Golden Grid System</a></li>
-      <li><a href="http://responsivegridsystem.com/" target="_blank">Responsive Grid System
-            </a></li>
+      <li><a href="http://responsivegridsystem.com/" target="_blank">Responsive Grid System</a></li>
       <li><a href="http://html5boilerplate.com/" target="_blank">HTML5 Boilerplate</a></li>
       <li><a href="http://getskeleton.com/" target="_blank">Get Skeleton</a></li>
       <li><a href="http://responsive-nav.com" target="_blank">Responsive Navigation</a></li>
@@ -126,8 +123,7 @@
   <div class="large-3 medium-6 small-6 columns">
     <p>Stock Photography Free Sites</p>
     <ul class="no-bullet">
-      <li><a href="http://unsplash.com" target="_blank">Unsplash</a></li>
-      <li><a href="http://littlevisuals.co" target="_blank">Little visuals</a></li>
+      <li><a href="https://unsplash.com/" target="_blank">Unsplash</a></li>
       <li><a href="http://gratisography.com" target="_blank">Gratisography</a></li>
       <li><a href="http://nos.twnsnd.co" target="_blank">New Old Stock</a></li>
       <li><a href="http://getrefe.tumblr.com" target="_blank">Free Refe Mobile Photos</a></li>
