@@ -4,14 +4,9 @@
         <section class="large-6 medium-6 small-12 columns">
             <h5>Foundation Installation</h5>
             <ul class="no-bullet">
-                <li><code class="language-git">sudo npm install -g bower grunt-cli</code></li>
-                <li><code class="language-git">sudo gem install foundation</code></li>
-                <li><code class="language-git">sudo gem install compass</code></li>
-                <li><code class="language-git">foundation new MY_PROJECT</code> <span>Insert Name of Project</span></li>
-                <li><code class="language-git">cd MY_PROJECT</code></li>
-                <li><code class="language-git">sudo gem install bundler</code></li>
-                <li><code class="language-git">bundle</code> <span>Only Run bundle once</span></li>
-                <li><code class="language-git">sudo bundle exec compass watch</code></li>
+                Ensure NODEJS/NPM is upto date.<br>
+                Run <code class="language-git">npm update</code> then <code class="language-git">npm upgrade</code>
+                <li><code class="language-git">npm install foundation-sites --save</code></li>
             </ul>
             <br>
             <h5>SASS Implementation</h5>
