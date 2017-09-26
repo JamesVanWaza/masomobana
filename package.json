@@ -1,6 +1,6 @@
 {
   "name": "Masomobana",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Masomobana Website",
   "main": "gulpfile.js",
   "devDependencies": {
@@ -37,6 +37,6 @@
     "pretty-hrtime": "^1.0.3",
     "semver": "^5.4.1",
     "tildify": "^1.2.0",
-    "v8flags": "^3.0.0"
+    "v8flags": "^3.0.1"
   }
 }
