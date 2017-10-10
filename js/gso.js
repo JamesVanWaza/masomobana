@@ -1,8 +1,8 @@
 /**
  * Google Sign On Implementation
  * Author: James Van Waza
- * Email: jgacuca@jamesvanwaza.com
- * Version: 1.0.0
+ * Email: info@dosbranding.com
+ * Version: 1.0.1
  */
 
 /** Sign in the user */
@@ -18,7 +18,8 @@ function onSignIn(googleUser) {
 
     /** Send the ID token to your server with an HTTPS POST request */
     var xhr = new XMLHttpRequest();
-    xhr.open('POST', 'https://masomobana2016.jamesvanwaza.com/tokensignin');
+    xhr.open('POST', 'https://masomobana.dev/tokensignin');
+    //xhr.open('POST', 'https://masomobana2016.jamesvanwaza.com/tokensignin');
     xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
     xhr.onload = function() {
         console.log('Signed in as: ' + xhr.responseText);
