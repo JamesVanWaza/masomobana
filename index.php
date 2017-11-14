@@ -38,7 +38,7 @@
   <div class="large-3 medium-6 small-6 columns">
     <p>AWARDS</p>
     <ul class="no-bullet">
-      <li><a href="http://cssdesignawards.com/" target="_blank">CSS Design Awards</a></li>
+      <li><a href="https://cssdesignawards.com/" target="_blank">CSS Design Awards</a></li>
       <li><a href="http://webbyawards.com/" target="_blank">Webby Awards</a></li>
       <li><a href="http://awwwards.com/" target="_blank">AWW</a></li>
     </ul>
@@ -47,8 +47,8 @@
     <p>Material Design</p>
     <ul class="no-bullet">
       <li><a href="https://www.google.com/design/spec/material-design/introduction.html" target="_blank">Google Material Design</a></li>
-      <li><a href="http://fezvrasta.github.io/bootstrap-material-design/#about" target="_blank">Bootstrap Material Design</a></li>
-      <li><a href="http://eucalyptuss.github.io/material-foundation/" target="_blank">Foundation Material Design</a></li>
+      <li><a href="https://fezvrasta.github.io/bootstrap-material-design/#about" target="_blank">Bootstrap Material Design</a></li>
+      <li><a href="http://materialfoundation.mikolajdobrucki.com/" target="_blank">Foundation Material Design</a></li>
     </ul>
   </div>
 </section>

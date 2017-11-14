@@ -1,7 +1,7 @@
 application: masomobana2017
-runtime: php55
+runtime: php
 api_version: 1
-version: alpha-002
+version: alpha-003
 
 handlers:
   - url: /.*

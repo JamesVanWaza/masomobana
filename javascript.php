@@ -5,6 +5,11 @@
     </div>
 </div>
 <div class="content-right twelve columns">
+    <ul class="no-bullet">
+        <li><a href="http://www.speckyboy.com/2013/12/18/50-javascript-tools-resources-2013" target="_blank">Javascript Resources</a>
+        <li><a href="http://jiren.github.io/filter.js/" target="_blank">Filter JS</a></li>
+        <li><a href="http://listjs.com/" target="_blank">List JS</a></li>
+    </ul>
     <div id="content">
         <div class="post-heirarchy">Posted in: <a href="http://learn.jquery.com/javascript-101/">JavaScript 101</a>
     </div>
@@ -120,7 +125,9 @@
                                 <div class="line n14">14</div>
                             </td>
                             <td class="code">
-                                                                        <pre><div class="container"><div class="line"><code><span class="doctype">&lt;!doctype html&gt;</span></code></div></div><div class="container"><div class="line"><code><span class="tag">&lt;<span class="title">html</span>&gt;</span></code></div></div><div class="container"><div class="line"><code><span class="tag">&lt;<span class="title">head</span>&gt;</span><span class="tag">&lt;/<span class="title">head</span>&gt;</span></code></div></div><div class="container"><div class="line"><code><span class="tag">&lt;<span class="title">body</span>&gt;</span></code></div></div><div class="container"><div class="line"><code> </code></div></div><div class="container"><div class="line"><code><span class="tag">&lt;<span class="title">h1</span> <span class="attribute">id</span>=<span class="value">"hello-world"</span>&gt;</span>Hello World<span class="tag">&lt;/<span class="title">h1</span>&gt;</span></code></div></div><div class="container"><div class="line"><code><span class="tag">&lt;<span class="title">script</span>&gt;</span><span class="javascript"></span></code></div></div><div class="container"><div class="line"><code><span class="comment">// Moving the script to the bottom of the page will make sure the element exists.</span></code></div></div><div class="container"><div class="line"><code><span class="keyword">var</span> title = document.getElementById( <span class="string">"hello-world"</span> );</code></div></div><div class="container"><div class="line"><code>console.log( title );</code></div></div><div class="container"><div class="line"><code><span class="tag">&lt;/<span class="title">script</span>&gt;</span></code></div></div><div class="container"><div class="line"><code> </code></div></div><div class="container"><div class="line"><code><span class="tag">&lt;/<span class="title">body</span>&gt;</span></code></div></div><div class="container"><div class="line"><code><span class="tag">&lt;/<span class="title">html</span>&gt;</span></code></div></div>
+                                <pre>
+                                    <div class="container">
+                                        <div class="line"><code><span class="doctype">&lt;!doctype html&gt;</span></code></div></div><div class="container"><div class="line"><code><span class="tag">&lt;<span class="title">html</span>&gt;</span></code></div></div><div class="container"><div class="line"><code><span class="tag">&lt;<span class="title">head</span>&gt;</span><span class="tag">&lt;/<span class="title">head</span>&gt;</span></code></div></div><div class="container"><div class="line"><code><span class="tag">&lt;<span class="title">body</span>&gt;</span></code></div></div><div class="container"><div class="line"><code> </code></div></div><div class="container"><div class="line"><code><span class="tag">&lt;<span class="title">h1</span> <span class="attribute">id</span>=<span class="value">"hello-world"</span>&gt;</span>Hello World<span class="tag">&lt;/<span class="title">h1</span>&gt;</span></code></div></div><div class="container"><div class="line"><code><span class="tag">&lt;<span class="title">script</span>&gt;</span><span class="javascript"></span></code></div></div><div class="container"><div class="line"><code><span class="comment">// Moving the script to the bottom of the page will make sure the element exists.</span></code></div></div><div class="container"><div class="line"><code><span class="keyword">var</span> title = document.getElementById( <span class="string">"hello-world"</span> );</code></div></div><div class="container"><div class="line"><code>console.log( title );</code></div></div><div class="container"><div class="line"><code><span class="tag">&lt;/<span class="title">script</span>&gt;</span></code></div></div><div class="container"><div class="line"><code> </code></div></div><div class="container"><div class="line"><code><span class="tag">&lt;/<span class="title">body</span>&gt;</span></code></div></div><div class="container"><div class="line"><code><span class="tag">&lt;/<span class="title">html</span>&gt;</span></code></div></div>
                                 Converting Strings to Numbers
                                 parseInt - Returns Numbers as Whole Numbers
                                 parseFloat - Returns Numbers as Numbers With Decimal Points
@@ -133,20 +140,9 @@
                                 You can create a read-only, named constant with the const keyword
                                 Boolean Literals
                                 The Boolean type has two literal values:l true and false
-</pre>
+                                </pre>
                             </td>
                         </tr>
                     </tbody>
                 </table>
-                <ul>
-                    <li><a href="http://www.speckyboy.com/2013/12/18/50-javascript-tools-resources-2013" target="_blank">Javascript Resources</a>
-                </li>
-            </ul>
-            <script src="js/vendor/jquery.js"></script>
-            <script src="js/vendor/modernizr.js"></script>
-            <script src="js/foundation.min.js"></script>
-            <script>
-            $(document).foundation();
-            </script>
-        </body>
-    </html>
+<?php include 'footer.php';?>
