@@ -62,6 +62,15 @@
 				Select users from table
 				<code class="language-sql">SELECT User FROM mysql.user;</code>
 			</li>
+			<li>Get Size of SQL Database</li>
+			<code class="language-sql">
+				SELECT table_schema
+					<br>
+   					Round(Sum(data_length + index_length) / 1024 / 1024, 1) "DB Name", "DB Size in MB"
+   					<br>
+					FROM   information_schema.tables
+					<br>
+					GROUP  BY table_schema; </code>
 		</ol>
 	</article>
 </div>

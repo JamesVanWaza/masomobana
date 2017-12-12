@@ -6,7 +6,13 @@
 					<li>
 						Checking Ubuntu Version on CLI
 						<ul class="lowerlatin">
-							<li>Press <code class="language-git">q</code>lsb_release -a</li>
+							<li>After logging in run the following: <code class="language-git">lsb_release -a</code></li>
+						</ul>
+					</li>
+					<li>
+						Listing Ubuntu Packages
+						<ul class="lowerlatin">
+							<li>Run the following command: <code class="language-git">apt list --installed</code></li>
 						</ul>
 					</li>
 					<li>
