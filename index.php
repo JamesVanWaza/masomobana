@@ -3,11 +3,10 @@
   <div class="large-6 medium-6 small-12 columns">
     <p>DAILY WORKFLOW</p>
     <ul class="no-bullet">
-      <li><a href="http://foundation.zurb.com/sites/docs/" target="_blank">Foundation 6</a></li>
+      <li><a href="https://foundation.zurb.com/sites/docs/" target="_blank">Foundation 6</a></li>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JS</a></li>
       <li><a href="http://php.net/" target="_blank">PHP</a></li>
-      <li><a href="http://dev.mysql.com/doc/refman/5.7/en/" target="_blank">MYSQL</a></li>
-      <li><a href="https://c9.io/" target="_blank">Cloud 9</a></li>
+      <li><a href="https://dev.mysql.com/doc/refman/5.7/en/" target="_blank">MYSQL</a></li>
     </ul>
   </div>
   <div class="large-6 medium-6 small-12 columns">
@@ -29,9 +28,9 @@
   <div class="large-3 medium-6 small-6 columns">
     <p>OTHER MAGAZINES</p>
     <ul class="no-bullet">
-      <li><a href="http://thenextweb.com/" target="_blank">The Next Web</a></li>
-      <li><a href="http://zeldman.com/" target="_blank">Zeldman</a></li>
-      <li><a href="http://webfieldmanual.com" target="_blank">Web Field Manual</a></li>
+      <li><a href="https://thenextweb.com/" target="_blank">The Next Web</a></li>
+      <li><a href="https://www.zeldman.com/" target="_blank">Zeldman</a></li>
+      <li><a href="https://webfieldmanual.com/" target="_blank">Web Field Manual</a></li>
       <li><a href="http://mor10.com" target="_blank">Mor 10</a></li>
     </ul>
   </div>
@@ -39,14 +38,14 @@
     <p>AWARDS</p>
     <ul class="no-bullet">
       <li><a href="https://cssdesignawards.com/" target="_blank">CSS Design Awards</a></li>
-      <li><a href="http://webbyawards.com/" target="_blank">Webby Awards</a></li>
-      <li><a href="http://awwwards.com/" target="_blank">AWW</a></li>
+      <li><a href="https://www.webbyawards.com/" target="_blank">Webby Awards</a></li>
+      <li><a href="https://www.awwwards.com/" target="_blank">AWW</a></li>
     </ul>
   </div>
   <div class="large-3 medium-6 small-6 columns">
     <p>Material Design</p>
     <ul class="no-bullet">
-      <li><a href="https://www.google.com/design/spec/material-design/introduction.html" target="_blank">Google Material Design</a></li>
+      <li><a href="https://material.io/guidelines/material-design/introduction.html" target="_blank">Google Material Design</a></li>
       <li><a href="https://fezvrasta.github.io/bootstrap-material-design/#about" target="_blank">Bootstrap Material Design</a></li>
       <li><a href="http://materialfoundation.mikolajdobrucki.com/" target="_blank">Foundation Material Design</a></li>
     </ul>
@@ -57,14 +56,14 @@
     <p>WEBSITES</p>
     <ul class="no-bullet">
       <li><a href="http://mikeinghamdesign.com/" target="_blank">Mike Ingham Design</a></li>
-      <li><a href="http://lightmaker.com/" target="_blank">Lightmaker</a></li>
+      <li><a href="https://www.lightmaker.com/" target="_blank">Lightmaker</a></li>
       <li><a href="http://skylinedesign.co.ke/" target="_blank">Skyline Design</a></li>
-      <li><a href="http://gravitatedesign.com/" target="_blank">Gravitate Design</a></li>
+      <li><a href="https://www.gravitatedesign.com/" target="_blank">Gravitate Design</a></li>
       <li><a href="http://michaelkamuiru.info/" target="_blank">Michael Kamuiru</a></li>
-      <li><a href="http://oho.com" target="_blank">OHO Interactive</a></li>
-      <li><a href="http://expo.getbootstrap.com/" target="_blank">Bootstrap Expo</a></li>
+      <li><a href="https://www.oho.com/" target="_blank">OHO Interactive</a></li>
+      <li><a href="https://expo.getbootstrap.com/" target="_blank">Bootstrap Expo</a></li>
       <li><a href="http://mediaqueri.es/" target="_blank">Media Queries</a></li>
-      <li><a href="http://kevinleary.net/" target="_blank">Kevin Leary</a></li>
+      <li><a href="https://www.kevinleary.net/" target="_blank">Kevin Leary</a></li>
       <li><a href="http://gravita.co" target="_blank">Gravita</a></li>
       <li><a href="http://creativitykills.co/" target="_blank">Creativity Skills</a></li>
     </ul>
@@ -74,12 +73,11 @@
     <ul class="no-bullet">
       <li><a href="http://jquery.com/" target="_blank">Jquery</a></li>
       <li><a href="http://jqueryui.com/" target="_blank">Jquery UI</a></li>
-      <li><a href="https://www.npmjs.com/browse/keyword/jquery-plugin" target="_blank">NODE Package Manager</a></li>
       <li><a href="http://getbootstrap.com/" target="_blank">Bootstrap</a></li>
       <li><a href="http://zurb.com/" target="_blank">Zurb</a></li>
-      <li><a href="http://css-tricks.com/" target="_blank">CSS Tricks</a></li>
-      <li><a href="http://compass-style.org/" target="_blank">Compass</a></li>
+      <li><a href="https://css-tricks.com/" target="_blank">CSS Tricks</a></li>
       <li><a href="http://emmet.io/" target="_blank">Emmet</a></li>
+      <li><a href="https://devhints.io/" target="_blank">Cheat Sheets</a></li>
     </ul>
   </div>
 </section>
@@ -87,7 +85,7 @@
   <div class="large-3 medium-6 small-6 columns">
     <p>Icons</p>
     <ul class="no-bullet">
-      <li><a href="http://fontawesome.io/" target="_blank">Fontawesome</a></li>
+      <li><a href="https://fontawesome.com/" target="_blank">Fontawesome</a></li>
     </ul>
   </div>
   <div class="large-3 medium-6 small-6 columns">
