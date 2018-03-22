@@ -1,6 +1,6 @@
 {
   "name": "Masomobana",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Masomobana Website",
   "main": "gulpfile.js",
   "devDependencies": {
