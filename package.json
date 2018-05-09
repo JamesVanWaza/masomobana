@@ -1,6 +1,6 @@
 {
   "name": "Masomobana",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Masomobana Website",
   "main": "gulpfile.js",
   "devDependencies": {
@@ -17,10 +17,7 @@
     "start": "gulp",
     "build": "gulp sass"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/zurb/foundation-sites-template.git"
-  },
+  "repository": "https://github.com/zurb/foundation-sites-template.git",
   "bugs": {
     "url": "https://github.com/zurb/foundation-sites/issues",
     "email": "foundation@zurb.com"
