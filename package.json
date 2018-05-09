@@ -1,15 +1,15 @@
 {
   "name": "Masomobana",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Masomobana Website",
   "main": "gulpfile.js",
   "devDependencies": {
     "clipboard": "^1.7.1",
     "font-awesome": "^4.7.0",
     "gulp": "^3.9.0",
-    "gulp-autoprefixer": "^4.0.0",
+    "gulp-autoprefixer": "^4.1.0",
     "gulp-load-plugins": "^1.5.0",
-    "gulp-sass": "^3.1.0",
+    "gulp-sass": "^3.2.1",
     "gulp-watch": "^4.3.11",
     "motion-ui": "^1.2.3"
   },
@@ -31,7 +31,6 @@
   "dependencies": {
     "archy": "^1.0.0",
     "foundation-sites": "^6.4.3",
-    "gulp-util": "^3.0.8",
     "interpret": "^1.0.4",
     "liftoff": "^2.3.0",
     "pretty-hrtime": "^1.0.3",
