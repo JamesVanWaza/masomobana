@@ -6,3 +6,5 @@ scss
 images/
 .bowerrc
 package-lock.json
+yarn.lock
+*.lock

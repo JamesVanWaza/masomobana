@@ -1,8 +1,8 @@
 {
   "name": "Masomobana",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Masomobana Website",
-  "main": "gulpfile.js",
+  "main": "index.php",
   "devDependencies": {
     "clipboard": "^1.7.1",
     "font-awesome": "^4.7.0",
@@ -17,17 +17,17 @@
     "start": "gulp",
     "build": "gulp sass"
   },
-  "repository": "https://github.com/zurb/foundation-sites-template.git",
+  "repository": "https://github.com/JamesVanWaza/masomobana2018.git",
   "bugs": {
     "url": "https://github.com/zurb/foundation-sites/issues",
     "email": "foundation@zurb.com"
   },
-  "author": "ZURB <foundation@zurb.com>",
+  "author": "JamesVanWaza <info@dosbranding.com>",
   "license": "MIT",
   "private": true,
   "dependencies": {
     "archy": "^1.0.0",
-    "foundation-sites": "^6.4.3",
+    "foundation-sites": "^6.5.0-rc.2",
     "interpret": "^1.0.4",
     "liftoff": "^2.3.0",
     "pretty-hrtime": "^1.0.3",
