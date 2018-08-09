@@ -1,17 +1,16 @@
 {
   "name": "Masomobana",
-  "version": "1.0.7",
+  "version": "1.0.9",
   "description": "Masomobana Website",
   "main": "index.php",
   "devDependencies": {
-    "clipboard": "^1.7.1",
+    "clipboard": "^2.0.1",
     "font-awesome": "^4.7.0",
     "gulp": "^3.9.0",
-    "gulp-autoprefixer": "^4.1.0",
+    "gulp-autoprefixer": "^5.0.0",
     "gulp-load-plugins": "^1.5.0",
-    "gulp-sass": "^3.2.1",
-    "gulp-watch": "^4.3.11",
-    "motion-ui": "^1.2.3"
+    "gulp-sass": "^4.0.1",
+    "gulp-watch": "^5.0.1"
   },
   "scripts": {
     "start": "gulp",
@@ -19,8 +18,8 @@
   },
   "repository": "https://github.com/JamesVanWaza/masomobana2018.git",
   "bugs": {
-    "url": "https://github.com/zurb/foundation-sites/issues",
-    "email": "foundation@zurb.com"
+    "url": "https://github.com/JamesVanWaza/masomobana2018/issues",
+    "email": "info@dosbranding.com"
   },
   "author": "JamesVanWaza <info@dosbranding.com>",
   "license": "MIT",
@@ -34,5 +33,10 @@
     "semver": "^5.4.1",
     "tildify": "^1.2.0",
     "v8flags": "^3.0.1"
+  },
+  "peerDependencies": {
+    "jquery": "^3.3.1",
+    "motion-ui": "^2.0.3",
+    "what-input": "^5.1.1"
   }
 }
