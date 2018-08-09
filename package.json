@@ -4,8 +4,8 @@
   "description": "Masomobana Website",
   "main": "index.php",
   "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.2.0",
     "clipboard": "^2.0.1",
-    "font-awesome": "^4.7.0",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^5.0.0",
     "gulp-load-plugins": "^1.5.0",
