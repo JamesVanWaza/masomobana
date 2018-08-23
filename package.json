@@ -1,6 +1,6 @@
 {
   "name": "Masomobana",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "Masomobana Website",
   "main": "index.php",
   "devDependencies": {
@@ -30,7 +30,6 @@
     "interpret": "^1.0.4",
     "liftoff": "^2.3.0",
     "pretty-hrtime": "^1.0.3",
-    "semver": "^5.4.1",
     "tildify": "^1.2.0",
     "v8flags": "^3.0.1"
   },
