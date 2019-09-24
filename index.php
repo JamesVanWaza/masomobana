@@ -5,7 +5,7 @@
     <ul class="no-bullet">
       <li><a href="https://foundation.zurb.com/sites/docs/" target="_blank">Foundation 6</a></li>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JS</a></li>
-      <li><a href="http://php.net/" target="_blank">PHP</a></li>
+      <li><a href="https://php.net/" target="_blank">PHP</a></li>
       <li><a href="https://dev.mysql.com/doc/refman/5.7/en/" target="_blank">MYSQL</a></li>
     </ul>
   </div>
