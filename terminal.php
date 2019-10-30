@@ -63,11 +63,12 @@
 					</ul>
 				</li>
 				<li>
-					Updating NPM
+					Updating Yarn
 					<ul class="lower-latin">
 						<li>
-							Install and Update NPM
-							<code class="language-git">npm install npm@latest -g</code>
+							<code class="language-git">yarn outdated</code>
+							<code>yarn remove [old-package name]</code>
+							<code class="language-git">yarn add [new-package name]</code>
 						</li>
 					</ul>
 				</li>

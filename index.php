@@ -5,8 +5,8 @@
     <ul class="no-bullet">
       <li><a href="https://foundation.zurb.com/sites/docs/" target="_blank">Foundation 6</a></li>
       <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JS</a></li>
-      <li><a href="http://php.net/" target="_blank">PHP</a></li>
-      <li><a href="https://dev.mysql.com/doc/refman/5.7/en/" target="_blank">MYSQL</a></li>
+      <li><a href="https://php.net/" target="_blank">PHP</a></li>
+      <li><a href="https://dev.mysql.com/doc/refman/8.0/en/" target="_blank">MYSQL</a></li>
     </ul>
   </div>
   <div class="large-6 medium-6 small-12 columns">
@@ -71,10 +71,10 @@
   <div class="large-6 medium-6 small-12 columns">
     <p>CODE</p>
     <ul class="no-bullet">
-      <li><a href="http://jquery.com/" target="_blank">Jquery</a></li>
-      <li><a href="http://jqueryui.com/" target="_blank">Jquery UI</a></li>
-      <li><a href="http://getbootstrap.com/" target="_blank">Bootstrap</a></li>
-      <li><a href="http://zurb.com/" target="_blank">Zurb</a></li>
+      <li><a href="https://jquery.com/" target="_blank">Jquery</a></li>
+      <li><a href="https://jqueryui.com/" target="_blank">Jquery UI</a></li>
+      <li><a href="https://getbootstrap.com/" target="_blank">Bootstrap</a></li>
+      <li><a href="https://zurb.com/" target="_blank">Zurb</a></li>
       <li><a href="https://css-tricks.com/" target="_blank">CSS Tricks</a></li>
       <li><a href="http://emmet.io/" target="_blank">Emmet</a></li>
       <li><a href="https://devhints.io/" target="_blank">Cheat Sheets</a></li>
