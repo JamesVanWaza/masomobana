@@ -92,7 +92,6 @@
     <p>Testing Responsive Designs</p>
     <ul class="no-bullet">
       <li><a href="http://responsinator.com/" target="_blank">Responsinator</a></li>
-      <li><a href="http://screenqueri.es/" target="_blank">Screen Queries</a></li>
       <li><a href="http://browserstack.com" target="_blank">Browser Stack</a></li>
     </ul>
   </div>
