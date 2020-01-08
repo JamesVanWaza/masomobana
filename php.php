@@ -6,6 +6,7 @@
 	</section>
 	<section class="small-12 medium-6 large-6 columns">
 	<h4>Find the definitions of the functions</h4>
+	<input type="search" name="search">
 	<?php
 /**
 add_query_arg();
