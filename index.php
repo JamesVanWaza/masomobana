@@ -59,7 +59,7 @@
       <li><a href="https://www.lightmaker.com/" target="_blank">Lightmaker</a></li>
       <li><a href="http://skylinedesign.co.ke/" target="_blank">Skyline Design</a></li>
       <li><a href="https://www.gravitatedesign.com/" target="_blank">Gravitate Design</a></li>
-      <li><a href="http://michaelkamuiru.info/" target="_blank">Michael Kamuiru</a></li>
+      <li><a href="https://michaelkamuiru.info/" target="_blank">Michael Kamuiru</a></li>
       <li><a href="https://www.oho.com/" target="_blank">OHO Interactive</a></li>
       <li><a href="https://expo.getbootstrap.com/" target="_blank">Bootstrap Expo</a></li>
       <li><a href="http://mediaqueri.es/" target="_blank">Media Queries</a></li>
