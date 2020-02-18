@@ -5,7 +5,7 @@
 <script src="https://apis.google.com/js/platform.js?onload=renderButton" async defer></script>
 <head>
     <link href="css/app.css" rel="stylesheet" type="text/css">
-    <link href="node_modules/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" href="node_modules/@fortawesome/fontawesome-free/css/all.min.css">
     <link rel="icon" type="image/png" href="images/favicon-32x32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="images/favicon-64x64.png" sizes="64x64">
     <link rel="icon" type="image/png" href="images/favicon-128x128.png" sizes="128x128">
