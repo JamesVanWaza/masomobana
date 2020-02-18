@@ -1,6 +1,6 @@
 {
   "name": "Masomobana",
-  "version": "1.1.9",
+  "version": "1.2.0",
   "description": "Masomobana Website",
   "main": "index.php",
   "devDependencies": {
@@ -22,7 +22,7 @@
     "pretty-hrtime": "^1.0.3"
   },
   "peerDependencies": {
-    "jquery": "^3.3.1",
+    "jquery": "^3.4.1",
     "motion-ui": "^2.0.3",
     "what-input": "^5.1.1"
   }
