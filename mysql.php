@@ -55,7 +55,7 @@
 			</li>
 			<li>
 				Exporting a Database with a TIMESTAMP
-				<code class="language-sql">DATABASE-%F-%T</code> e.g <br>
+				<code class="language-sql">@DATABASE@-%F-%T</code> e.g <br>
 				<code class="language-sql">DatabaseName-2016-12-01 7:00</code>
 			</li>
 			<li>
