@@ -118,6 +118,14 @@ wp_verify_nonce()
 	<li><code class="code-vim">source ~/.bash_profile</code></li>
 	<li><code>Control</code> + <code>X</code> To close the <code class="code-vim">.bash_profile</code></li>
 </ol>
+Resetting PHPmyadmin Password
+1. In the Command Line go to the <code>/etc/db-config-common/phpmyadmin.conf</code>
+2. View the permissions of the file 
+<code>stat -c "%a %n"</code> -filename
+<code>sudo chmod 777</code> -filename
+open filename `phpmyadmin.conf`
+search username under `dbc_user` and password under `dbc_dbpass`
+change back file permissions for phpmyadmin.conf to 655
 	</section>
 </div>
 <?php include 'footer.php';?>
