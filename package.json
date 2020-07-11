@@ -1,11 +1,12 @@
 {
   "name": "Masomobana",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Masomobana Website",
   "main": "index.php",
   "devDependencies": {
-    "@fortawesome/fontawesome-free": "^5.13.0",
-    "clipboard": "^2.0.6"
+    "@fortawesome/fontawesome-free": "^5.13.1",
+    "clipboard": "^2.0.6",
+    "interpret": "^2.2.0"
   },
   "scripts": {},
   "repository": "https://github.com/JamesVanWaza/masomobana.git",
@@ -18,7 +19,6 @@
   "private": true,
   "dependencies": {
     "archy": "^1.0.0",
-    "interpret": "^2.0.0",
     "pretty-hrtime": "^1.0.3"
   },
   "peerDependencies": {
