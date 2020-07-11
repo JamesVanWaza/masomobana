@@ -18,4 +18,22 @@
 			<dd>Solution</dd>
 		</div>
 	</div>
+	<section>
+		<div class="row">
+			<h3>Migrating an Instance</h3>
+			<ol>
+				<li>Export wp-config.php</li>
+				<li>Export plugins and themes from old site</li>
+				<li>Export DB, and user info</li>
+				<li>Create new instance from GCP Marketplace</li>
+				<li>Create new user and import info including DB</li>
+				<li>Create a new SSH key</li>
+				<li>Import new key to GCP and Filezilla</li>
+				<li>Import plugins and themes to new instance</li>
+				<li>Update wp-config.php</li>	
+				<li>Export plugins and thems from old site</li>
+				<li>Ensure in <code>wp_users</code> table that ,the domain is matching</li>	
+			</ol>
+		</div>
+	</section>
 <?php include 'footer.php';?>
