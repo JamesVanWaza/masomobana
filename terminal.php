@@ -67,16 +67,6 @@
 					<li><code class="language-git">open ~/.bash_profile</code></li>
 				</ul>
 			</li>
-			<li>
-				Updating Yarn
-				<ul class="lower-latin">
-					<li>
-						<code class="language-git">yarn outdated</code>
-						<code>yarn remove [old-package name]</code>
-						<code class="language-git">yarn add [new-package name]</code>
-					</li>
-				</ul>
-			</li>
 		</ol>
 	</div>
 </div>
