@@ -3,7 +3,13 @@
 	</footer>
 
 	<script src="node_modules/jquery/dist/jquery.min.js"></script>
-	<script src="https://apis.google.com/js/platform.js" async defer></script>
+	<script src="node_modules/what-input/dist/what-input.min.js"></script>
+	<script src="node_modules/foundation-sites/dist/js/foundation.min.js"></script>
+
+	<script>
+      $(document).foundation();
+    </script>
+
 	<script src="js/prism.js"></script>
 	<script src="js/stickyfooter.js"></script>
 	<script src="js/creditcard.js"></script>

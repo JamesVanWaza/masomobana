@@ -1,8 +1,12 @@
-<?php include 'nav.php'; ?>
+<?php include 'nav.php';?>
 <div class="row">
 	<div class="small-12 medium-12 large-12 columns">
 		<h2 class="text-center">Terminal Tricks</h2>
 		<ol>
+			<li>Opening the command line to the github folder</li>
+			<ul class="lower-latin">
+				<li class="language-git"><code>cd Library/Mobile\ Documents/com~apple~CloudDocs/htdocs/Github</code></li>
+			</ul>
 			<li>
 				Delete All Terminal Mail
 				<ul class="lowerlatin">
@@ -76,4 +80,4 @@
 		</ol>
 	</div>
 </div>
-<?php include 'footer.php'; ?>
+<?php include 'footer.php';?>
