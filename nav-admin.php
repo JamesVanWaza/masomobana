@@ -24,6 +24,7 @@
       <li><a href="sabre.php">Sabre</a></li>
       <li><a href="tables.php">Tables</a></li>
       <li><a href="wordpress.php">Wordpress</a></li>
+      <li><a href="terminal.php">Terminal</a></li>
     </ul>
   </div>
   <div class="top-bar-right">
