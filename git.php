@@ -11,5 +11,10 @@
     <br>
     <code class="language-css">rm -rf .git</code>
   </div>
+  <div class="small-12 medium-6 large-6 columns">
+    Removing files from a Repository
+    <br>
+    <code class="language-css">git rm --cached -r</code>
+  </div>
 </section>
 <?php include_once 'footer.php';?>
