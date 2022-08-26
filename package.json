@@ -6,7 +6,7 @@
     "dependencies": {
         "foundation-sites": "^6.7.4",
         "what-input": "^5.2.10",
-        "jquery": "3.6.0"
+        "jquery": "3.6.1"
     },
     "devDependencies": {
         "@fortawesome/fontawesome-free": "^5.15.4",
