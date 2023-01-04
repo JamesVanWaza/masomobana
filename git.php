@@ -16,5 +16,10 @@
     <br>
     <code class="language-css">git rm --cached -r</code>
   </div>
+    <div class="small-12 medium-6 large-6 columns">
+    Renaming a branch
+    <br>
+    <code class="language-css">git branch -m OLDBRANCHNAME NEWBRANCHNAME</code>
+  </div>
 </section>
 <?php include_once 'footer.php';?>
