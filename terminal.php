@@ -67,6 +67,13 @@
 					<li><code class="language-git">open ~/.bash_profile</code></li>
 				</ul>
 			</li>
+			<li>
+				Clearing Windows terminal				
+				<ul class="lower-latin">
+					<li><code class="language-git">cls</code></li>
+					<li><code class="language-git">Press Enter after running cls</code></li>
+				</ul>
+			</li>
 		</ol>
 	</div>
 </div>
