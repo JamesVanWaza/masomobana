@@ -6,5 +6,6 @@
         <li>Error with Github Actions</li>
         <li>Github Actions Minutes Expired</li>
         <li>Webpack configurations updated</li>
+        <li>Favicons updated<li>
     </ol>
 <?php include 'footer.php';?>
