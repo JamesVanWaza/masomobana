@@ -13,7 +13,6 @@
     <div class="large-6 medium-6 small-12 columns">
       <p>Completed Websites</p>
       <ul class="no-bullet">
-        <li><a href="http://yell4liberia.org" target="_blank">Yell 4 Liberia</a></li>
         <li><a href="https://fis.jamesvanwaza.com" target="_blank">FIS Staffing</a></li>
         <li><a href="https://jamesvanwaza.com/" target="_blank">James Van Waza</a></li>
       </ul>
