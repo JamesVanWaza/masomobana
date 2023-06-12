@@ -110,11 +110,11 @@
       <p>Wordpress</p>
       <ul class="no-bullet">
         <li><a href="https://woocommerce.com/documentation/woocommerce/" target="_blank">Woo Themes Docs</a></li>
-        <li><a href="http://underscores.me" target="_blank">Underscores</a></li>
-        <li><a href="http://roots.io" target="_blank">Roots IO</a></li>
-        <li><a href="http://jointswp.com" target="_blank">Joints WP</a></li>
-        <li><a href="http://themble.com/bones" target="_blank">Themble Bones</a></li>
-        <li><a href="http://themify.me/themes/basic" target="_blank">Themify</a></li>
+        <li><a href="https://underscores.me" target="_blank">Underscores</a></li>
+        <li><a href="https://roots.io" target="_blank">Roots IO</a></li>
+        <li><a href="https://jointswp.com" target="_blank">Joints WP</a></li>
+        <li><a href="https://themble.com/bones" target="_blank">Themble Bones</a></li>
+        <li><a href="https://themify.me/themes/basic" target="_blank">Themify</a></li>
       </ul>
     </div>
     <div class="large-3 medium-6 small-6 columns">
