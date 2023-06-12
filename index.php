@@ -109,7 +109,7 @@
     <div class="large-3 medium-6 small-6 columns">
       <p>Wordpress</p>
       <ul class="no-bullet">
-        <li><a href="http://docs.woothemes.com/document/third-party-custom-theme-compatibility/" target="_blank">Woo Themes Docs</a></li>
+        <li><a href="https://woocommerce.com/documentation/woocommerce/" target="_blank">Woo Themes Docs</a></li>
         <li><a href="http://underscores.me" target="_blank">Underscores</a></li>
         <li><a href="http://roots.io" target="_blank">Roots IO</a></li>
         <li><a href="http://jointswp.com" target="_blank">Joints WP</a></li>
