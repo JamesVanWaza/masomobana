@@ -21,7 +21,6 @@
       <li><a href="php.php">PHP</a></li>
       <li><a href="mysql.php">MySQL</a></li>
       <li><a href="jquery.php">jQuery</a></li>
-      <li><a href="sabre.php">Sabre</a></li>
       <li><a href="tables.php">Tables</a></li>
       <li><a href="wordpress.php">Wordpress</a></li>
       <li><a href="terminal.php">Terminal</a></li>
