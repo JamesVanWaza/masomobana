@@ -1,7 +1,7 @@
 <?php include 'nav-admin.php';?>
     <h1>Web Projects</h1>
     <ol>
-        <li><a href="https://ais.dostesting.co.ke" target="_blank">AIS</a></li>
+        <li><a href="https://ad.dostesting.co.ke" target="_blank">AISD</a></li>
         <li><a href="https://badwf.dostesting.co.ke" target="_blank">BADWF</a></li>
         <li><a href="https://dosbootstrap.dostesting.co.ke" target="_blank">DOSBOOTSTRAP</a></li>
         <li><a href="https://fisstaffing.dostesting.co.ke" target="_blank">FIS STAFFING</a></li>
