@@ -1,4 +1,6 @@
 <?php include 'nav-admin.php';?>
+
+<div class="container-fluid">
     <h1>Web Projects</h1>
     <ol>
         <li><a href="https://ad.dostesting.co.ke" target="_blank">AISD</a></li>
@@ -11,4 +13,6 @@
         <li><a href="https://tailwind-start.dostesting.co.ke" target="_blank">TAILWIND</a><li>
         <li><a href="https://zeicloud.dostesting.co.ke" target="_blank">ZEICLOUD</a><li>
     </ol>
+</div>
+
 <?php include 'footer.php';?>
