@@ -9,6 +9,7 @@
         <li><a href="https://dostesting.co.ke" target="_blank">DOSBOOTSTRAP</a></li>
         <li><a href="https://fis.dostesting.co.ke" target="_blank">FIS STAFFING</a></li>
         <li><a href="https://heart4kids.dostesting.co.ke" target="_blank">HEART 4 KIDS</a></li>
+        <li><a href="https://kenafricabootstrap.dostesting.co.ke" target="_blank">KENAFRICA BOOTSTRAP</a></li>
         <li><a href="https://start-sass.dostesting.co.ke" target="_blank">START SASS</a><li>
         <li><a href="https://tailwind-start.dostesting.co.ke" target="_blank">TAILWIND</a><li>
         <li><a href="https://zeicloud.dostesting.co.ke" target="_blank">ZEICLOUD</a><li>
