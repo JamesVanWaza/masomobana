@@ -1,10 +1,8 @@
 .DS_Store
-bower_components
 node_modules
 *.npm-debug.log
 images/
 .bowerrc
-package-lock.json
 yarn.lock
 *.lock
 .idea/
