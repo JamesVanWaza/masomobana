@@ -1,4 +1,4 @@
-<?php include_once 'nav-admin.php';?>
+<?php include_once 'bootstrap-nav.php';?>
 <div class="container-fluid">
   <section class="row">
     <div class="large-6 medium-6 small-12 columns">
