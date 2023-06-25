@@ -1,4 +1,5 @@
 <?php include_once 'bootstrap-nav.php';?>
+
 <div class="container-fluid">
   <section class="row">
     <div class="large-6 medium-6 small-12 columns">
@@ -51,6 +52,7 @@
       </ul>
     </div>
   </section>
+
   <section class="row">
     <div class="large-6 medium-6 small-12 columns">
       <p>WEBSITES</p>
@@ -81,6 +83,7 @@
       </ul>
     </div>
   </section>
+
   <section class="row">
     <div class="large-3 medium-6 small-6 columns">
       <p>Icons</p>
@@ -105,6 +108,7 @@
       </ul>
     </div>
   </section>
+  
   <section class="row">
     <div class="large-3 medium-6 small-6 columns">
       <p>Wordpress</p>
