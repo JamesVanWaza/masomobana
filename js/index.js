@@ -12,6 +12,7 @@ import '../scss/style.scss';
 
 /** FontAwesome 6 */
 import '@fortawesome/fontawesome-free/js/all.js';
+
 /** Footer */
 document.body.onload = footer;
 
