@@ -2,21 +2,21 @@ const path = require("path");
 
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 
-const UglifyJsPlugin = require("uglifyjs-webpack-plugin");
+const TerserPlugin = require("terser-webpack-plugin");
 
 module.exports = {
 	//	https://webpack.js.org/configuration/mode/
 	mode: 'development',
-	entry: "./src/index.js",
-//	entry: {
-//		about: './src/about.js',
-//		contact: './src/contact.js'
-//	},
+	entry: "./src/js/index.js",
+	//	entry: {
+	//		about: './src/about.js',
+	//		contact: './src/contact.js'
+	//	},
 	output: {
-//		filename: "[name].bundle.js",
+		//		filename: "[name].bundle.js",
 		filename: "main.js",
-//		path: path.resolve(__dirname, "public") Can change directory name
-		path: path.resolve(__dirname, "public") 
+		//		path: path.resolve(__dirname, "public") Can change directory name
+		path: path.resolve(__dirname, "public")
 	},
 	// Can change the entry name
 	// entry: "./mbuzi/mbuzide.js",
@@ -25,10 +25,10 @@ module.exports = {
 		port: 9002
 	},
 	optimization: {
-//		splitChunks: {
-//			chunks: 'all'
-//		}
-		minimizer: [new UglifyJsPlugin()]
+		//		splitChunks: {
+		//			chunks: 'all'
+		//		}
+		minimizer: [new TerserPlugin()]
 	},
 	plugins: [new HtmlWebpackPlugin()],
 	module: {
@@ -38,26 +38,26 @@ module.exports = {
 				test: /\.js$/,
 				exclude: /(node_modules)/,
 				use: {
-					loader: 'babel-loader', 
+					loader: 'babel-loader',
 					options: {
 						// Supports all the browsers
-						presets: ['@babel/preset-env', '@babel/preset-react']
+						presets: ['@babel/preset-env']
 					}
 				}
 			},
 			{
-				test: /\.css$/,
+				test: /\.s[ac]ss$/i,
 				use: [
-					{loader: 'style-loader'},
-					{loader: 'css-loader'}
+					{ loader: 'style-loader' },
+					{ loader: 'css-loader' }
 				]
 			},
-			
+
 			// Start here for the URL Loader
 			{
 				test: /\.(png|jpg)$/,
 				use: [
-					{loader: 'url-loader'}
+					{ loader: 'url-loader' }
 				]
 			}
 		]
