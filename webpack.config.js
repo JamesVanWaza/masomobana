@@ -8,12 +8,7 @@ module.exports = {
 	//	https://webpack.js.org/configuration/mode/
 	mode: 'development',
 	entry: "./src/js/index.js",
-	//	entry: {
-	//		about: './src/about.js',
-	//		contact: './src/contact.js'
-	//	},
 	output: {
-		//		filename: "[name].bundle.js",
 		filename: "main.js",
 		//		path: path.resolve(__dirname, "public") Can change directory name
 		path: path.resolve(__dirname, "public")
@@ -54,7 +49,11 @@ module.exports = {
 					"css-loader",
 					// Compiles Sass to CSS
 					"sass-loader",
-				  ],
+				],
+				type: "asset/resource",
+				generator: {
+					filename: "style.css"
+				}
 			},
 
 			// Start here for the URL Loader
