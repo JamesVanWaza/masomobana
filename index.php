@@ -18,6 +18,22 @@
         <li><a href="https://jamesvanwaza.com/" target="_blank">James Van Waza <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
+    <div class="large-6 medium-6 small-12 columns">
+      <p>HTDOCS Websites</p>
+      <ul class="no-bullet">
+        <li><a href="https://aid.dostesting.co.ke" target="_blank">AID <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://badwf.dostesting.co.ke" target="_blank">BADWF <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://b5e.dostesting.co.ke" target="_blank">Bootstrap 5 Examples <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://dostesting.co.ke" target="_blank">Dosbootstrap <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://fis.dostesting.co.ke" target="_blank">FIS <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://h4k.dostesting.co.ke" target="_blank">Heart 4 Kids <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://kenafrica-bootstrap.dostesting.co.ke" target="_blank">Kenafrica Bootstrap <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://start-sass.dostesting.co.ke" target="_blank">Start SASS<i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://tailwind-start.dostesting.co.ke" target="_blank">Tailwind <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://webpack.dostesting.co.ke" target="_blank">Webpack <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://zeicloud.dostesting.co.ke" target="_blank">ZeIcloud <i class="fa-solid fa-link"></i></a></li>
+      </ul>
+    </div>
     <div class="large-3 medium-6 small-6 columns">
       <p>MAGAZINE ARTICLES</p>
       <ul class="no-bullet">
