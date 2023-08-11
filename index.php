@@ -60,9 +60,8 @@
     <div class="large-3 medium-6 small-6 columns">
       <p>Material Design</p>
       <ul class="no-bullet">
-        <li><a href="https://material.io/guidelines/material-design/introduction.html" target="_blank">Google Material Design <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="https://fezvrasta.github.io/bootstrap-material-design/#about" target="_blank">Bootstrap Material Design <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="http://materialfoundation.mikolajdobrucki.com/" target="_blank">Foundation Material Design <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://m3.material.io/" target="_blank">Google Material Design <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://mdbootstrap.com/docs/standard/" target="_blank">Bootstrap Material Design <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
   </section>
