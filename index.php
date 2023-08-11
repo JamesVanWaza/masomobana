@@ -14,7 +14,6 @@
     <div class="large-6 medium-6 small-12 columns">
       <p>Completed Websites</p>
       <ul class="no-bullet">
-        <li><a href="https://fis.jamesvanwaza.com" target="_blank">FIS Staffing <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://jamesvanwaza.com/" target="_blank">James Van Waza <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
@@ -39,7 +38,6 @@
       <ul class="no-bullet">
         <li><a href="http://alistapart.com/" target="_blank">A List Apart <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://smashingmagazine.com/" target="_blank">Smashing Magazine <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="http://justinseeley.com/" target="_blank">Justin Seeley <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
     <div class="large-3 medium-6 small-6 columns">
