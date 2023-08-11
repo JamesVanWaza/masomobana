@@ -71,7 +71,6 @@
       <p>WEBSITES</p>
       <ul class="no-bullet">
         <li><a href="http://mikeinghamdesign.com/" target="_blank">Mike Ingham Design <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="https://www.lightmaker.com/" target="_blank">Lightmaker <i class="fa-solid fa-link"></i></a></li>
         <li><a href="http://skylinedesign.co.ke/" target="_blank">Skyline Design <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://www.gravitatedesign.com/" target="_blank">Gravitate Design <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://michaelkamuiru.info/" target="_blank">Michael Kamuiru <i class="fa-solid fa-link"></i></a></li>
@@ -86,10 +85,6 @@
     <div class="large-6 medium-6 small-12 columns">
       <p>CODE</p>
       <ul class="no-bullet">
-        <li><a href="https://jquery.com/" target="_blank">Jquery <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="https://jqueryui.com/" target="_blank">Jquery UI <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="https://getbootstrap.com/" target="_blank">Bootstrap <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="https://zurb.com/" target="_blank">Zurb <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://css-tricks.com/" target="_blank">CSS Tricks <i class="fa-solid fa-link"></i></a></li>
         <li><a href="http://emmet.io/" target="_blank">Emmet <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://devhints.io/" target="_blank">Cheat Sheets <i class="fa-solid fa-link"></i></a></li>
@@ -137,10 +132,10 @@
     <div class="large-3 medium-6 small-6 columns">
       <p>Stock Photography Free Sites</p>
       <ul class="no-bullet">
-        <li><a href="https://unsplash.com/" target="_blank">Unsplash <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="http://gratisography.com" target="_blank">Gratisography <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="http://nos.twnsnd.co" target="_blank">New Old Stock <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="http://getrefe.tumblr.com" target="_blank">Free Refe Mobile Photos <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://picsum.photos/" target="_blank">Picsum Photos <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://gratisography.com" target="_blank">Gratisography <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://nos.twnsnd.co" target="_blank">New Old Stock <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://getrefe.tumblr.com" target="_blank">Free Refe Mobile Photos <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
   </section>
