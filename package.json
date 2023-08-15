@@ -25,7 +25,8 @@
     },
     "scripts": {
         "build": "webpack -w",
-        "start": "webpack serve"
+        "start": "webpack serve",
+        "type": "module"
     },
     "repository": "https://github.com/JamesVanWaza/masomobana.git",
     "bugs": {

@@ -1,14 +1,18 @@
 /** Bootstrap JS */
-import 'bootstrap';
+// import 'bootstrap';
+const bootstrap = require('bootstrap');
 
 /** PopperJS */
-import '@popperjs/core';
+// import '@popperjs/core';
+const popperjs = require('@popperjs/core');
 
 /** Botstrap SCSS **/
-import '../scss/style.scss';
+// import '../scss/style.scss';
+const scss = require('../scss/style.scss')
 
 /** FontAwesome 6 */
-import '@fortawesome/fontawesome-free/js/all.js';
+// import '@fortawesome/fontawesome-free/js/all.js';
+const fortawesome = require('@fortawesome/fontawesome-free/js/all.js');
 
 /** Footer */
 document.body.onload = footer;
