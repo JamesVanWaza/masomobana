@@ -650,10 +650,9 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /*!*************************!*\
   !*** ./src/js/index.js ***!
   \*************************/
-/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+/***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
-"use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var bootstrap__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! bootstrap */ \"./node_modules/bootstrap/dist/js/bootstrap.esm.js\");\n/* harmony import */ var _scss_style_scss__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../scss/style.scss */ \"./src/scss/style.scss\");\n/* harmony import */ var _fortawesome_fontawesome_free_js_all_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @fortawesome/fontawesome-free/js/all.js */ \"./node_modules/@fortawesome/fontawesome-free/js/all.js\");\n/* harmony import */ var _fortawesome_fontawesome_free_js_all_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_fortawesome_fontawesome_free_js_all_js__WEBPACK_IMPORTED_MODULE_2__);\n/** Bootstrap JS */\n\n\n/** PopperJS */\n\n\n/** Botstrap SCSS **/\n\n\n/** FontAwesome 6 */\n\n\n/** Footer */\ndocument.body.onload = footer;\nfunction footer() {\n  // create a new div element\n  var footerDiv = document.createElement(\"footer\");\n\n  // assign it a class\n  footerDiv.classList.add(\"footer\");\n\n  // gets the current date\n  var copyright = new Date().getFullYear();\n\n  // gets the copyright symbol\n  var favicon = document.createElement(\"i\");\n  favicon.classList.add(\"fas\", \"fa-copyright\");\n  var text = document.createTextNode(\" 2020 \" + \"- \" + copyright);\n\n  // add the text node to the newly created div\n  footerDiv.appendChild(favicon);\n  footerDiv.appendChild(text);\n\n  // add the newly created element and its content into the DOM\n  var newDiv = document.getElementById(\"div\");\n  document.body.insertBefore(footerDiv, newDiv);\n}\n\n//# sourceURL=webpack://masomobana/./src/js/index.js?");
+eval("/** Bootstrap JS */\n// import 'bootstrap';\nvar bootstrap = __webpack_require__(/*! bootstrap */ \"./node_modules/bootstrap/dist/js/bootstrap.esm.js\");\n\n/** PopperJS */\n// import '@popperjs/core';\nvar popperjs = __webpack_require__(/*! @popperjs/core */ \"./node_modules/@popperjs/core/lib/index.js\");\n\n/** Botstrap SCSS **/\n// import '../scss/style.scss';\nvar scss = __webpack_require__(/*! ../scss/style.scss */ \"./src/scss/style.scss\");\n\n/** FontAwesome 6 */\n// import '@fortawesome/fontawesome-free/js/all.js';\nvar fortawesome = __webpack_require__(/*! @fortawesome/fontawesome-free/js/all.js */ \"./node_modules/@fortawesome/fontawesome-free/js/all.js\");\n\n/** Footer */\ndocument.body.onload = footer;\nfunction footer() {\n  // create a new div element\n  var footerDiv = document.createElement(\"footer\");\n\n  // assign it a class\n  footerDiv.classList.add(\"footer\");\n\n  // gets the current date\n  var copyright = new Date().getFullYear();\n\n  // gets the copyright symbol\n  var favicon = document.createElement(\"i\");\n  favicon.classList.add(\"fas\", \"fa-copyright\");\n  var text = document.createTextNode(\" 2020 \" + \"- \" + copyright);\n\n  // add the text node to the newly created div\n  footerDiv.appendChild(favicon);\n  footerDiv.appendChild(text);\n\n  // add the newly created element and its content into the DOM\n  var newDiv = document.getElementById(\"div\");\n  document.body.insertBefore(footerDiv, newDiv);\n}\n\n//# sourceURL=webpack://masomobana/./src/js/index.js?");
 
 /***/ }),
 
@@ -706,18 +705,6 @@ eval("module.exports = __webpack_require__.p + \"style.css\";\n\n//# sourceURL=w
 /******/ 	}
 /******/ 	
 /************************************************************************/
-/******/ 	/* webpack/runtime/compat get default export */
-/******/ 	(() => {
-/******/ 		// getDefaultExport function for compatibility with non-harmony modules
-/******/ 		__webpack_require__.n = (module) => {
-/******/ 			var getter = module && module.__esModule ?
-/******/ 				() => (module['default']) :
-/******/ 				() => (module);
-/******/ 			__webpack_require__.d(getter, { a: getter });
-/******/ 			return getter;
-/******/ 		};
-/******/ 	})();
-/******/ 	
 /******/ 	/* webpack/runtime/define property getters */
 /******/ 	(() => {
 /******/ 		// define getter functions for harmony exports

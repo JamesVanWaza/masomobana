@@ -5,24 +5,20 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const TerserPlugin = require("terser-webpack-plugin");
 
 module.exports = {
-	//	https://webpack.js.org/configuration/mode/
 	mode: 'development',
-	entry: "./src/js/index.js",
+	entry: {
+		index: "./src/js/index.js",
+		style: "./src/scss/style.scss"
+	},
 	output: {
-		filename: "main.js",
-		//		path: path.resolve(__dirname, "public") Can change directory name
+		filename: "[name].bundle.js",
 		path: path.resolve(__dirname, "public")
 	},
-	// Can change the entry name
-	// entry: "./mbuzi/mbuzide.js",
 	devServer: {
 		contentBase: path.join(__dirname, "public"),
 		port: 9002
 	},
 	optimization: {
-		//		splitChunks: {
-		//			chunks: 'all'
-		//		}
 		minimizer: [new TerserPlugin()]
 	},
 	plugins: [new HtmlWebpackPlugin()],
@@ -52,8 +48,9 @@ module.exports = {
 				],
 				type: "asset/resource",
 				generator: {
-					filename: "style.css"
-				}
+					filename: 'style.css'
+				},
+				use: ["sass-loader"]
 			},
 
 			// Start here for the URL Loader
