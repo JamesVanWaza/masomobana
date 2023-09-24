@@ -69,7 +69,7 @@
       <p>MATERIAL DESIGN</p>
       <ul class="no-bullet">
         <li><a href="https://m3.material.io/" target="_blank">Google Material Design <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="https://col-mdbootstrap.com/docs/standard/" target="_blank">Bootstrap Material Design <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://mdbootstrap.com/docs/standard/" target="_blank">Bootstrap Material Design <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
 
