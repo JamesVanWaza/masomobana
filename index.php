@@ -136,6 +136,7 @@
         <li><a href="https://jointswp.com" target="_blank">Joints WP <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://themble.com/bones" target="_blank">Themble Bones <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://themify.me/themes/basic" target="_blank">Themify <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://understrap.com" target="_blank">Understrap <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
 
