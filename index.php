@@ -76,8 +76,8 @@
     <div class="col-lg-3 col-md-6 col-sm-12 ">
       <p>WEBSITES</p>
       <ul class="no-bullet">
-        <li><a href="http://mikeinghamdesign.com/" target="_blank">Mike Ingham Design <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="http://skylinedesign.co.ke/" target="_blank">Skyline Design <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://mikeinghamdesign.com/" target="_blank">Mike Ingham Design <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://skylinedesign.co.ke/" target="_blank">Skyline Design <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://www.gravitatedesign.com/" target="_blank">Gravitate Design <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://michaelkamuiru.info/" target="_blank">Michael Kamuiru <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://www.oho.com/" target="_blank">OHO Interactive <i class="fa-solid fa-link"></i></a></li>
