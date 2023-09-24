@@ -2,7 +2,7 @@
 
 <div class="container-fluid">
   <section class="row">
-    <div class="large-6 medium-6 small-12 columns">
+    <div class="col-lg-3 col-md-6 col-sm-12">
       <p>DAILY WORKFLOW</p>
       <ul class="no-bullet">
         <li><a href="https://getbootstrap.com/" target="_blank">Bootstrap 5 <i class="fa-solid fa-link"></i></a></li>
@@ -11,13 +11,15 @@
         <li><a href="https://dev.mysql.com/doc/refman/8.0/en/" target="_blank">MYSQL <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
-    <div class="large-6 medium-6 small-12 columns">
+
+    <div class="col-lg-3 col-md-6 col-sm-12">
       <p>Completed Websites</p>
       <ul class="no-bullet">
         <li><a href="https://jamesvanwaza.com/" target="_blank">James Van Waza <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
-    <div class="large-6 medium-6 small-12 columns">
+
+    <div class="col-lg-3 col-md-6 col-sm-12">
       <p>HTDOCS Websites</p>
       <ul class="no-bullet">
         <li><a href="https://ad.dostesting.co.ke" target="_blank">AID <i class="fa-solid fa-link"></i></a></li>
@@ -33,14 +35,18 @@
         <li><a href="https://zeicloud.dostesting.co.ke" target="_blank">ZeIcloud <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
-    <div class="large-3 medium-6 small-6 columns">
+
+    <div class="col-lg-3 col-md-6 col-sm-6">
       <p>MAGAZINE ARTICLES</p>
       <ul class="no-bullet">
         <li><a href="http://alistapart.com/" target="_blank">A List Apart <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="https://smashingmagazine.com/" target="_blank">Smashing Magazine <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://col-smashingmagazine.com/" target="_blank">col-smashing Magazine <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
-    <div class="large-3 medium-6 small-6 columns">
+  </section>
+
+  <section class="row">
+    <div class="col-lg-3 col-md-6 col-sm-6">
       <p>OTHER MAGAZINES</p>
       <ul class="no-bullet">
         <li><a href="https://thenextweb.com/" target="_blank">The Next Web <i class="fa-solid fa-link"></i></a></li>
@@ -49,7 +55,8 @@
         <li><a href="http://mor10.com" target="_blank">Mor 10 <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
-    <div class="large-3 medium-6 small-6 columns">
+
+    <div class="col-lg-3 col-md-6 col-sm-6">
       <p>AWARDS</p>
       <ul class="no-bullet">
         <li><a href="https://cssdesignawards.com/" target="_blank">CSS Design Awards <i class="fa-solid fa-link"></i></a></li>
@@ -57,20 +64,19 @@
         <li><a href="https://www.awwwards.com/" target="_blank">AWW <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
-    <div class="large-3 medium-6 small-6 columns">
+
+    <div class="col-lg-3 col-md-6 col-sm-6">
       <p>Material Design</p>
       <ul class="no-bullet">
         <li><a href="https://m3.material.io/" target="_blank">Google Material Design <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="https://mdbootstrap.com/docs/standard/" target="_blank">Bootstrap Material Design <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://col-mdbootstrap.com/docs/standard/" target="_blank">Bootstrap Material Design <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
-  </section>
 
-  <section class="row">
-    <div class="large-6 medium-6 small-12 columns">
+    <div class="col-lg-3 col-md-6 col-sm-12 ">
       <p>WEBSITES</p>
       <ul class="no-bullet">
-        <li><a href="http://mikeinghamdesign.com/" target="_blank">Mike Ingham Design <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="http://mikeinghacol-mdesign.com/" target="_blank">Mike Ingham Design <i class="fa-solid fa-link"></i></a></li>
         <li><a href="http://skylinedesign.co.ke/" target="_blank">Skyline Design <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://www.gravitatedesign.com/" target="_blank">Gravitate Design <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://michaelkamuiru.info/" target="_blank">Michael Kamuiru <i class="fa-solid fa-link"></i></a></li>
@@ -82,7 +88,8 @@
         <li><a href="http://creativitykills.co/" target="_blank">Creativity Skills <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
-    <div class="large-6 medium-6 small-12 columns">
+
+    <div class="col-lg-6 col-md-6 col-sm-12 ">
       <p>CODE</p>
       <ul class="no-bullet">
         <li><a href="https://css-tricks.com/" target="_blank">CSS Tricks <i class="fa-solid fa-link"></i></a></li>
@@ -93,20 +100,22 @@
   </section>
 
   <section class="row">
-    <div class="large-3 medium-6 small-6 columns">
+    <div class="col-lg-3 col-md-6 col-sm-6">
       <p>Icons</p>
       <ul class="no-bullet">
         <li><a href="https://fontawesome.com/" target="_blank">Fontawesome <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
-    <div class="large-3 medium-6 small-6 columns">
+
+    <div class="col-lg-3 col-md-6 col-sm-6">
       <p>Testing Responsive Designs</p>
       <ul class="no-bullet">
         <li><a href="http://responsinator.com/" target="_blank">Responsinator <i class="fa-solid fa-link"></i></a></li>
         <li><a href="http://browserstack.com" target="_blank">Browser Stack <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
-    <div class="large-3 medium-6 small-6 columns">
+
+    <div class="col-lg-3 col-md-6 col-sm-6">
       <p>Good Fluid Grid Frameworks</p>
       <ul class="no-bullet">
         <li><a href="http://responsivegridsystem.com/" target="_blank">Responsive Grid System <i class="fa-solid fa-link"></i></a></li>
@@ -115,10 +124,8 @@
         <li><a href="http://responsive-nav.com" target="_blank">Responsive Navigation <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
-  </section>
-  
-  <section class="row">
-    <div class="large-3 medium-6 small-6 columns">
+
+    <div class="col-lg-3 col-md-6 col-sm-6">
       <p>Wordpress</p>
       <ul class="no-bullet">
         <li><a href="https://woocommerce.com/documentation/woocommerce/" target="_blank">Woo Themes Docs <i class="fa-solid fa-link"></i></a></li>
@@ -129,7 +136,10 @@
         <li><a href="https://themify.me/themes/basic" target="_blank">Themify <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
-    <div class="large-3 medium-6 small-6 columns">
+  </section>
+  
+  <section class="row">
+    <div class="col">
       <p>Stock Photography Free Sites</p>
       <ul class="no-bullet">
         <li><a href="https://picsum.photos/" target="_blank">Picsum Photos <i class="fa-solid fa-link"></i></a></li>
