@@ -40,7 +40,7 @@
       <p>MAGAZINE ARTICLES</p>
       <ul class="no-bullet">
         <li><a href="http://alistapart.com/" target="_blank">A List Apart <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="https://col-smashingmagazine.com/" target="_blank">col-smashing Magazine <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://smashingmagazine.com/" target="_blank">Smashing Magazine <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
   </section>
