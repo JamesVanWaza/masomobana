@@ -88,18 +88,18 @@
         <li><a href="http://creativitykills.co/" target="_blank">Creativity Skills <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
-
-    <div class="col-lg-6 col-md-6 col-sm-12 ">
-      <p>CODE</p>
-      <ul class="no-bullet">
-        <li><a href="https://css-tricks.com/" target="_blank">CSS Tricks <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="http://emmet.io/" target="_blank">Emmet <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="https://devhints.io/" target="_blank">Cheat Sheets <i class="fa-solid fa-link"></i></a></li>
-      </ul>
-    </div>
   </section>
 
   <section class="row">
+    <div class="col-lg-3 col-md-6 col-sm-12 ">
+        <p>CODE</p>
+        <ul class="no-bullet">
+          <li><a href="https://css-tricks.com/" target="_blank">CSS Tricks <i class="fa-solid fa-link"></i></a></li>
+          <li><a href="http://emmet.io/" target="_blank">Emmet <i class="fa-solid fa-link"></i></a></li>
+          <li><a href="https://devhints.io/" target="_blank">Cheat Sheets <i class="fa-solid fa-link"></i></a></li>
+        </ul>
+    </div>
+
     <div class="col-lg-3 col-md-6 col-sm-6">
       <p>ICONS</p>
       <ul class="no-bullet">
@@ -124,8 +124,10 @@
         <li><a href="http://responsive-nav.com" target="_blank">Responsive Navigation <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
-
-    <div class="col-lg-3 col-md-6 col-sm-6">
+  </section>
+  
+  <section class="row">
+    <div class="col-lg-6 col-md-6 col-sm-6">
       <p>WORDPRESS</p>
       <ul class="no-bullet">
         <li><a href="https://woocommerce.com/documentation/woocommerce/" target="_blank">Woo Themes Docs <i class="fa-solid fa-link"></i></a></li>
@@ -136,10 +138,8 @@
         <li><a href="https://themify.me/themes/basic" target="_blank">Themify <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
-  </section>
-  
-  <section class="row">
-    <div class="col">
+
+    <div class="col-lg-6 col-md-6 col-sm-6">
       <p>STOCK PHOTOGRAPHY FREE SITES</p>
       <ul class="no-bullet">
         <li><a href="https://picsum.photos/" target="_blank">Picsum Photos <i class="fa-solid fa-link"></i></a></li>
