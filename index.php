@@ -13,14 +13,14 @@
     </div>
 
     <div class="col-lg-3 col-md-6 col-sm-12">
-      <p>Completed Websites</p>
+      <p>COMPLETED WEBSITES</p>
       <ul class="no-bullet">
         <li><a href="https://jamesvanwaza.com/" target="_blank">James Van Waza <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
 
     <div class="col-lg-3 col-md-6 col-sm-12">
-      <p>HTDOCS Websites</p>
+      <p>HTDOCS WEBSITES</p>
       <ul class="no-bullet">
         <li><a href="https://ad.dostesting.co.ke" target="_blank">AID <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://badwf.dostesting.co.ke" target="_blank">BADWF <i class="fa-solid fa-link"></i></a></li>
@@ -66,7 +66,7 @@
     </div>
 
     <div class="col-lg-3 col-md-6 col-sm-6">
-      <p>Material Design</p>
+      <p>MATERIAL DESIGN</p>
       <ul class="no-bullet">
         <li><a href="https://m3.material.io/" target="_blank">Google Material Design <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://col-mdbootstrap.com/docs/standard/" target="_blank">Bootstrap Material Design <i class="fa-solid fa-link"></i></a></li>
@@ -101,14 +101,14 @@
 
   <section class="row">
     <div class="col-lg-3 col-md-6 col-sm-6">
-      <p>Icons</p>
+      <p>ICONS</p>
       <ul class="no-bullet">
         <li><a href="https://fontawesome.com/" target="_blank">Fontawesome <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
 
     <div class="col-lg-3 col-md-6 col-sm-6">
-      <p>Testing Responsive Designs</p>
+      <p>TESTING RESPONSIVE DESIGNS</p>
       <ul class="no-bullet">
         <li><a href="http://responsinator.com/" target="_blank">Responsinator <i class="fa-solid fa-link"></i></a></li>
         <li><a href="http://browserstack.com" target="_blank">Browser Stack <i class="fa-solid fa-link"></i></a></li>
@@ -116,7 +116,7 @@
     </div>
 
     <div class="col-lg-3 col-md-6 col-sm-6">
-      <p>Good Fluid Grid Frameworks</p>
+      <p>GOOD FLUID GRID FRAMEWORKS</p>
       <ul class="no-bullet">
         <li><a href="http://responsivegridsystem.com/" target="_blank">Responsive Grid System <i class="fa-solid fa-link"></i></a></li>
         <li><a href="http://html5boilerplate.com/" target="_blank">HTML5 Boilerplate <i class="fa-solid fa-link"></i></a></li>
@@ -126,7 +126,7 @@
     </div>
 
     <div class="col-lg-3 col-md-6 col-sm-6">
-      <p>Wordpress</p>
+      <p>WORDPRESS</p>
       <ul class="no-bullet">
         <li><a href="https://woocommerce.com/documentation/woocommerce/" target="_blank">Woo Themes Docs <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://underscores.me" target="_blank">Underscores <i class="fa-solid fa-link"></i></a></li>
@@ -140,7 +140,7 @@
   
   <section class="row">
     <div class="col">
-      <p>Stock Photography Free Sites</p>
+      <p>STOCK PHOTOGRAPHY FREE SITES</p>
       <ul class="no-bullet">
         <li><a href="https://picsum.photos/" target="_blank">Picsum Photos <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://gratisography.com" target="_blank">Gratisography <i class="fa-solid fa-link"></i></a></li>
