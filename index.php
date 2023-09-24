@@ -82,10 +82,10 @@
         <li><a href="https://michaelkamuiru.info/" target="_blank">Michael Kamuiru <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://www.oho.com/" target="_blank">OHO Interactive <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://expo.getbootstrap.com/" target="_blank">Bootstrap Expo <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="http://mediaqueri.es/" target="_blank">Media Queries <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://mediaqueri.es/" target="_blank">Media Queries <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://www.kevinleary.net/" target="_blank">Kevin Leary <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="http://gravita.co" target="_blank">Gravita <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="http://creativitykills.co/" target="_blank">Creativity Skills <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://gravita.co" target="_blank">Gravita <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://creativitykills.co/" target="_blank">Creativity Skills <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
   </section>
