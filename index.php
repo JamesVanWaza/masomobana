@@ -1,4 +1,4 @@
-<?php include_once 'html5req.php';?>
+<?php include_once 'nav.php';?>
 
 <div class="container-fluid">
   <section class="row">
