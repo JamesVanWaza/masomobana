@@ -97,6 +97,7 @@
           <li><a href="https://css-tricks.com/" target="_blank">CSS Tricks <i class="fa-solid fa-link"></i></a></li>
           <li><a href="http://emmet.io/" target="_blank">Emmet <i class="fa-solid fa-link"></i></a></li>
           <li><a href="https://devhints.io/" target="_blank">Cheat Sheets <i class="fa-solid fa-link"></i></a></li>
+          <li><a href="https://getwaves.io">Get Waves</a> <i class="fa-solid fa-link"></i></li>
         </ul>
     </div>
 
@@ -147,6 +148,8 @@
         <li><a href="https://gratisography.com" target="_blank">Gratisography <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://nos.twnsnd.co" target="_blank">New Old Stock <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://getrefe.tumblr.com" target="_blank">Free Refe Mobile Photos <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://www.manypixels.co/gallery"></a>Many Pixels <i class="fa-solid fa-link"></i></li>
+        
       </ul>
     </div>
   </section>
