@@ -74,6 +74,13 @@
 					<li><code class="language-git">Press Enter after running cls</code></li>
 				</ul>
 			</li>
+			<li>
+				NPM Commands				
+				<ul class="lower-latin">
+					<li><code class="language-git">npm doctor</code></li>
+					<li><code class="language-git">Checks the status of NPM and tells you what you should update</code></li>
+				</ul>
+			</li>
 		</ol>
 	</div>
 </div>
