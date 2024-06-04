@@ -80,6 +80,7 @@
 					<li><code class="language-git">npm doctor</code></li>
 					<li><code class="language-git">Checks the status of NPM and tells you what you should update</code></li>
 				</ul>
+				Add the command that shows how to update NPM on the MAC 
 			</li>
 		</ol>
 	</div>
