@@ -13,6 +13,11 @@
 			</div>
 		</div>
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/1h8jDeYQpPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+			<ol>
+				<li>Migrating Wordpress to Production</li>
+				<li><code>Change the domain in `wp-blogs`</code></li>
+			</ol>
 	</div>
 		</div>
 	
