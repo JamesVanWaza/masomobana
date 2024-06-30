@@ -42,6 +42,7 @@
 					<li>Show all Composer Packages <code class="language-git">php composer.phar show --all</code></li>
 				</ul>
 			</li>
+			<br>
 			<li>
 				Running Bash Files
 				<ul class="lower-latin">
@@ -53,6 +54,7 @@
 					<li><code class="language-git">./yourscript.sh</code></li>
 				</ul>
 			</li>
+			<br>
 			<li>
 				Initialize Google Cloud Terminal
 				<ul class="lower-latin">
@@ -60,6 +62,7 @@
 					<li><code class="language-git">gcloud init</code></li>
 				</ul>
 			</li>
+			<br>
 			<li>
 				Opening <code class="language-git">bash_profile</code>
 				<ul class="lower-latin">
@@ -82,6 +85,7 @@
 				</ul>
 				Add the command that shows how to update NPM on the MAC 
 			</li>
+			<li>To show dot files<code class="language-git">press command shift .</code></li>
 		</ol>
 	</div>
 </div>
