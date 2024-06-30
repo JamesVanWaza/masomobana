@@ -17,6 +17,9 @@
 			<h3 class="text-center">Migrating Wordpress to Production</h2>
 			<ol>
 				<li>Change the domain in<code> `wp-blogs`</code></li>
+				<li>Run the <code>NOW() for Last Updated</code></li>
+				<li>Update the subdomains to match the domain name</li>
+				
 			</ol>
 	</div>
 		</div>
