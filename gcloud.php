@@ -1,4 +1,5 @@
 <?php include 'nav-admin.php';?>
+
 	<div class="row">
 		<div class="large-12 medium-12 small-12 columns">
 			<h1 class="text-center">GCLOUD Tips & Tricks</h1>
@@ -18,6 +19,7 @@
 			<dd>Solution</dd>
 		</div>
 	</div>
+
 	<section>
 		<div class="row">
 			<h3>Migrating an Instance</h3>
@@ -30,10 +32,11 @@
 				<li>Create a new SSH key</li>
 				<li>Import new key to GCP and Filezilla</li>
 				<li>Import plugins and themes to new instance</li>
-				<li>Update wp-config.php</li>	
+				<li>Update wp-config.php</li>
 				<li>Export plugins and thems from old site</li>
-				<li>Ensure in <code>wp_users</code> table that ,the domain is matching</li>	
+				<li>Ensure in <code>wp_users</code> table that ,the domain is matching</li>
 			</ol>
 		</div>
 	</section>
+
 <?php include 'footer.php';?>

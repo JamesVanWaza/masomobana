@@ -1,6 +1,7 @@
 <?php include_once 'nav-admin.php';?>
 
 <div class="container-fluid">
+
   <section class="row">
     <div class="small-12 medium-6 large-6 columns">
       <ul class="no-bullet">
@@ -24,6 +25,7 @@
       <code class="language-css">git branch -m OLDBRANCHNAME NEWBRANCHNAME</code>
     </div>
   </section>
+
 </div>
 
 <?php include_once 'footer.php';?>

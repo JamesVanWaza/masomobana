@@ -1,4 +1,5 @@
 <?php include_once 'nav.php';?>
+
 <section class="row">
 	<div class="large-6 medium-6 small-12 columns">
 		<p>HTML Microformats</p>
@@ -13,3 +14,5 @@
 			</code>
 	</div>
 </section>
+
+<?php include_once 'footer.php';?>
