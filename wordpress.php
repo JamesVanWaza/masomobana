@@ -45,7 +45,14 @@
 					<li><code>gzip -k</code> and restore from production local db</li>
 					<li>Ensure the users account exists online</li>
 					<li>Open SSH and change permissions in order to access files</li>
-					<li>Update <code>wp-config.php</code> db name to use the one in production</li>
+				
+					<br>
+					Change the following in `wp-config.php`
+					<ul>
+						<li>Update <code>wp-config.php</code> db name to use the one in production</li>
+						<li>Under the multisite section change multiste domain</li>
+					</ul>
+					
 				</ul>
 			</li>
 		</ol>

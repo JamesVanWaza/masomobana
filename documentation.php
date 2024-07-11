@@ -15,7 +15,7 @@
 	</div>
 	<section>
 	Domains
-	dosbranding.co.ke - Wordpress Projects - Hosting Google Cloud
+	dosbranding.co.ke
 	jamesvanwaza.com - Non Wordpress Projects - Hosting Google Cloud
 	dosbranding.com - Wordpress USA Projects - Hosting - DigitalOcean
 	loriantravel.com - Travel Website - Hosting Google Cloud
