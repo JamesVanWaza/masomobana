@@ -1,4 +1,4 @@
-<?php include_once 'nav.php';?>
+<?php include_once 'nav.php'; ?>
 
 <div class="container-fluid">
   <section class="row">
@@ -126,7 +126,7 @@
       </ul>
     </div>
   </section>
-  
+
   <section class="row">
     <div class="col-lg-6 col-md-6 col-sm-6">
       <p>WORDPRESS</p>
@@ -149,10 +149,10 @@
         <li><a href="https://nos.twnsnd.co" target="_blank">New Old Stock <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://getrefe.tumblr.com" target="_blank">Free Refe Mobile Photos <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://www.manypixels.co/gallery"></a>Many Pixels <i class="fa-solid fa-link"></i></li>
-        
+
       </ul>
     </div>
   </section>
 </div>
 
-<?php include_once 'footer.php';?>
+<?php include_once 'footer.php'; ?>

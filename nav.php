@@ -1,4 +1,5 @@
-<?php include_once 'html5req.php';?>
+<?php include_once 'html5req.php'; ?>
+
 <div class="title-bar" data-responsive-toggle="example-menu" data-hide-for="medium">
   <button class="menu-icon" type="button" data-toggle></button>
   <div class="title-bar-title">Menu</div>
