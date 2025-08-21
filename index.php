@@ -110,7 +110,6 @@
     <div class="col-lg-3 col-md-6 col-sm-6">
       <p>TESTING RESPONSIVE DESIGNS</p>
       <ul class="no-bullet">
-        <li><a href="http://responsinator.com/" target="_blank">Responsinator <i class="fa-solid fa-link"></i></a></li>
         <li><a href="http://browserstack.com" target="_blank">Browser Stack <i class="fa-solid fa-link"></i></a></li>
       </ul>
     </div>
@@ -147,7 +146,7 @@
         <li><a href="https://gratisography.com" target="_blank">Gratisography <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://nos.twnsnd.co" target="_blank">New Old Stock <i class="fa-solid fa-link"></i></a></li>
         <li><a href="https://getrefe.tumblr.com" target="_blank">Free Refe Mobile Photos <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="https://www.manypixels.co/gallery"></a>Many Pixels <i class="fa-solid fa-link"></i></li>
+        <li><a href="https://www.manypixels.co/gallery" target="_blank">Many Pixels <i class="fa-solid fa-link"></i></a></li>
 
       </ul>
     </div>
