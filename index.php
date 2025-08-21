@@ -96,7 +96,7 @@
           <li><a href="https://css-tricks.com/" target="_blank">CSS Tricks <i class="fa-solid fa-link"></i></a></li>
           <li><a href="http://emmet.io/" target="_blank">Emmet <i class="fa-solid fa-link"></i></a></li>
           <li><a href="https://devhints.io/" target="_blank">Cheat Sheets <i class="fa-solid fa-link"></i></a></li>
-          <li><a href="https://getwaves.io">Get Waves</a> <i class="fa-solid fa-link"></i></li>
+          <li><a href="https://getwaves.io">Get Waves <i class="fa-solid fa-link"></i></a></li>
         </ul>
     </div>
 
