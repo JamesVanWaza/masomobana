@@ -8,4 +8,6 @@
         <li>Webpack configurations updated</li>
         <li>Favicons updated<li>
     </ol>
+
+    <h1>Changelog 2025.10.1</h1>
 <?php include 'footer.php';?>
