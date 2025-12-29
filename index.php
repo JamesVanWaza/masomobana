@@ -117,8 +117,8 @@
     <div class="col-lg-3 col-md-6 col-sm-6">
       <p>GOOD FLUID GRID FRAMEWORKS</p>
       <ul class="no-bullet">
-        <li><a href="http://responsivegridsystem.com/" target="_blank">Responsive Grid System <i class="fa-solid fa-link"></i></a></li>
-        <li><a href="http://html5boilerplate.com/" target="_blank">HTML5 Boilerplate <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://www.bairesdev.com/tools/responsive-grid/" target="_blank">Responsive Grid System <i class="fa-solid fa-link"></i></a></li>
+        <li><a href="https://html5boilerplate.com/" target="_blank">HTML5 Boilerplate <i class="fa-solid fa-link"></i></a></li>
         <li><a href="http://getskeleton.com/" target="_blank">Get Skeleton <i class="fa-solid fa-link"></i></a></li>
         <li><a href="http://responsive-nav.com" target="_blank">Responsive Navigation <i class="fa-solid fa-link"></i></a></li>
       </ul>
