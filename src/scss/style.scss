@@ -12,6 +12,19 @@ h2 {
     font-family: 'Playfair Display', serif;
 }
 
+/** List Items in Index Page */
+li a {
+    color: $gray-300;
+    text-decoration: none;
+    transition: all 0.3s ease-in;
+    cursor: pointer;
+
+    &:hover {
+        color: $purple-600;
+        text-decoration: underline;
+    }
+}
+
 
 /** Spacing **/
 

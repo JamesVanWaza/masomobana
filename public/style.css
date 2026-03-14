@@ -11866,6 +11866,18 @@ h2, .h2 {
   font-family: "Playfair Display", serif;
 }
 
+/** List Items in Index Page */
+li a {
+  color: #dee2e6;
+  text-decoration: none;
+  transition: all 0.3s ease-in;
+  cursor: pointer;
+}
+li a:hover {
+  color: rgb(88.8, 52.8, 154.4);
+  text-decoration: underline;
+}
+
 /** Spacing **/
 .mt-0 {
   padding-top: 0.25rem;
