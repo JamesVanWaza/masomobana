@@ -2,7 +2,7 @@
 
 <div class="container-fluid">
   <section class="row">
-    <div class="col-lg-3 col-md-6 col-sm-12">
+    <article class="col-lg-3 col-md-6 col-sm-12">
       <p>DAILY WORKFLOW</p>
       <ul class="no-bullet">
         <li class="zelinks"><a href="https://getbootstrap.com/" target="_blank">Bootstrap 5 <i class="fa-solid fa-link"></i></a></li>
@@ -10,16 +10,16 @@
         <li class="zelinks"><a href="https://php.net/" target="_blank">PHP <i class="fa-solid fa-link"></i></a></li>
         <li class="zelinks"><a href="https://dev.mysql.com/doc/refman/8.0/en/" target="_blank">MYSQL <i class="fa-solid fa-link"></i></a></li>
       </ul>
-    </div>
+    </article>
 
-    <div class="col-lg-3 col-md-6 col-sm-12">
+    <article class="col-lg-3 col-md-6 col-sm-12">
       <p>COMPLETED WEBSITES</p>
       <ul class="no-bullet">
         <li class="zelinks"><a href="https://jamesvanwaza.com/" target="_blank">James Van Waza <i class="fa-solid fa-link"></i></a></li>
       </ul>
-    </div>
+    </article>
 
-    <div class="col-lg-3 col-md-6 col-sm-12">
+    <article class="col-lg-3 col-md-6 col-sm-12">
       <p>HTDOCS WEBSITES</p>
       <ul class="no-bullet">
         <li class="zelinks"><a href="https://ad.dostesting.co.ke" target="_blank">AID <i class="fa-solid fa-link"></i></a></li>
@@ -34,19 +34,19 @@
         <li class="zelinks"><a href="https://webpack.dostesting.co.ke" target="_blank">Webpack <i class="fa-solid fa-link"></i></a></li>
         <li class="zelinks"><a href="https://zeicloud.dostesting.co.ke" target="_blank">ZeIcloud <i class="fa-solid fa-link"></i></a></li>
       </ul>
-    </div>
+    </article>
 
-    <div class="col-lg-3 col-md-6 col-sm-6">
+    <article class="col-lg-3 col-md-6 col-sm-6">
       <p>MAGAZINE ARTICLES</p>
       <ul class="no-bullet">
         <li class="zelinks"><a href="https://alistapart.com/" target="_blank">A List Apart <i class="fa-solid fa-link"></i></a></li>
         <li class="zelinks"><a href="https://smashingmagazine.com/" target="_blank">Smashing Magazine <i class="fa-solid fa-link"></i></a></li>
       </ul>
-    </div>
+    </article>
   </section>
 
   <section class="row">
-    <div class="col-lg-3 col-md-6 col-sm-6">
+    <article class="col-lg-3 col-md-6 col-sm-6">
       <p>OTHER MAGAZINES</p>
       <ul class="no-bullet">
         <li class="zelinks"><a href="https://thenextweb.com/" target="_blank">The Next Web <i class="fa-solid fa-link"></i></a></li>
@@ -54,26 +54,26 @@
         <li class="zelinks"><a href="https://webfieldmanual.com/" target="_blank">Web Field Manual <i class="fa-solid fa-link"></i></a></li>
         <li class="zelinks"><a href="http://mor10.com" target="_blank">Mor 10 <i class="fa-solid fa-link"></i></a></li>
       </ul>
-    </div>
+    </article>
 
-    <div class="col-lg-3 col-md-6 col-sm-6">
+    <article class="col-lg-3 col-md-6 col-sm-6">
       <p>AWARDS</p>
       <ul class="no-bullet">
         <li class="zelinks"><a href="https://cssdesignawards.com/" target="_blank">CSS Design Awards <i class="fa-solid fa-link"></i></a></li>
         <li class="zelinks"><a href="https://www.webbyawards.com/" target="_blank">Webby Awards <i class="fa-solid fa-link"></i></a></li>
         <li class="zelinks"><a href="https://www.awwwards.com/" target="_blank">AWW <i class="fa-solid fa-link"></i></a></li>
       </ul>
-    </div>
+    </article>
 
-    <div class="col-lg-3 col-md-6 col-sm-6">
+    <article class="col-lg-3 col-md-6 col-sm-6">
       <p>MATERIAL DESIGN</p>
       <ul class="no-bullet">
         <li class="zelinks"><a href="https://m3.material.io/" target="_blank">Google Material Design <i class="fa-solid fa-link"></i></a></li>
         <li class="zelinks"><a href="https://mdbootstrap.com/docs/standard/" target="_blank">Bootstrap Material Design <i class="fa-solid fa-link"></i></a></li>
       </ul>
-    </div>
+    </article>
 
-    <div class="col-lg-3 col-md-6 col-sm-12 ">
+    <article class="col-lg-3 col-md-6 col-sm-12 ">
       <p>WEBSITES</p>
       <ul class="no-bullet">
         <li class="zelinks"><a href="https://mikeinghamdesign.com/" target="_blank">Mike Ingham Design <i class="fa-solid fa-link"></i></a></li>
@@ -86,11 +86,11 @@
         <li class="zelinks"><a href="https://gravita.co" target="_blank">Gravita <i class="fa-solid fa-link"></i></a></li>
         <li class="zelinks"><a href="https://creativitykills.co/" target="_blank">Creativity Skills <i class="fa-solid fa-link"></i></a></li>
       </ul>
-    </div>
+    </article>
   </section>
 
   <section class="row">
-    <div class="col-lg-3 col-md-6 col-sm-12 ">
+    <article class="col-lg-3 col-md-6 col-sm-12 ">
         <p>CODE</p>
         <ul class="no-bullet">
           <li class="zelinks"><a href="https://css-tricks.com/" target="_blank">CSS Tricks <i class="fa-solid fa-link"></i></a></li>
@@ -98,23 +98,23 @@
           <li class="zelinks"><a href="https://devhints.io/" target="_blank">Cheat Sheets <i class="fa-solid fa-link"></i></a></li>
           <li class="zelinks"><a href="https://getwaves.io">Get Waves <i class="fa-solid fa-link"></i></a></li>
         </ul>
-    </div>
+    </article>
 
-    <div class="col-lg-3 col-md-6 col-sm-6">
+    <article class="col-lg-3 col-md-6 col-sm-6">
       <p>ICONS</p>
       <ul class="no-bullet">
         <li class="zelinks"><a href="https://fontawesome.com/" target="_blank">Fontawesome <i class="fa-solid fa-link"></i></a></li>
       </ul>
-    </div>
+    </article>
 
-    <div class="col-lg-3 col-md-6 col-sm-6">
+    <article class="col-lg-3 col-md-6 col-sm-6">
       <p>TESTING RESPONSIVE DESIGNS</p>
       <ul class="no-bullet">
         <li class="zelinks"><a href="http://browserstack.com" target="_blank">Browser Stack <i class="fa-solid fa-link"></i></a></li>
       </ul>
-    </div>
+    </article>
 
-    <div class="col-lg-3 col-md-6 col-sm-6">
+    <article class="col-lg-3 col-md-6 col-sm-6">
       <p>GOOD FLUID GRID FRAMEWORKS</p>
       <ul class="no-bullet">
         <li class="zelinks"><a href="https://www.bairesdev.com/tools/responsive-grid/" target="_blank">Responsive Grid System <i class="fa-solid fa-link"></i></a></li>
@@ -122,11 +122,11 @@
         <li class="zelinks"><a href="http://getskeleton.com/" target="_blank">Get Skeleton <i class="fa-solid fa-link"></i></a></li>
         <li class="zelinks"><a href="http://responsive-nav.com" target="_blank">Responsive Navigation <i class="fa-solid fa-link"></i></a></li>
       </ul>
-    </div>
+    </article>
   </section>
 
   <section class="row">
-    <div class="col-lg-6 col-md-6 col-sm-6">
+    <article class="col-lg-6 col-md-6 col-sm-6">
       <p>WORDPRESS</p>
       <ul class="no-bullet">
         <li class="zelinks"><a href="https://woocommerce.com/documentation/woocommerce/" target="_blank">Woo Themes Docs <i class="fa-solid fa-link"></i></a></li>
@@ -137,9 +137,9 @@
         <li class="zelinks"><a href="https://themify.me/themes/basic" target="_blank">Themify <i class="fa-solid fa-link"></i></a></li>
         <li class="zelinks"><a href="https://understrap.com" target="_blank">Understrap <i class="fa-solid fa-link"></i></a></li>
       </ul>
-    </div>
+    </article>
 
-    <div class="col-lg-6 col-md-6 col-sm-6">
+    <article class="col-lg-6 col-md-6 col-sm-6">
       <p>STOCK PHOTOGRAPHY FREE SITES</p>
       <ul class="no-bullet">
         <li class="zelinks"><a href="https://picsum.photos/" target="_blank">Picsum Photos <i class="fa-solid fa-link"></i></a></li>
@@ -149,7 +149,7 @@
         <li class="zelinks"><a href="https://www.manypixels.co/gallery" target="_blank">Many Pixels <i class="fa-solid fa-link"></i></a></li>
 
       </ul>
-    </div>
+    </article>
   </section>
 </div>
 

@@ -12,6 +12,7 @@
         <h2>Version 2026.04.10</h2>
         <h3>April 08, 2026 12:23</h3>
         <p>Updated dependencies</p>
+        <p>In the index page, changed the div tags to article tags</p>
     </article>
 
 <?php include 'footer.php';?>
